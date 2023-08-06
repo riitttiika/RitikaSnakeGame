@@ -1,1 +1,2 @@
 # RitikaSnakeGame
+The Snake game is implemented using Python's turtle module. It creates a window where the player controls a snake using arrow keys. The objective is to eat the food represented by a green square to grow the snake. The game keeps track of the player's score, and the highest score achieved during the game session. The snake can't collide with the screen borders, and if it collides with its body, the game ends.
